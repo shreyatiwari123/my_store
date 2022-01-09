@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="QAF Demo" verbose="0">
+    <test name="BDD Test" enabled="true">
+       <classes>
+           <class name="utility.Utility">
+          <methods>
+              <include name="@test1" />
+          </methods>
+           </class>
+       </classes>
+
+    </test>
+
+</suite>

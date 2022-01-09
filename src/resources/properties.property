@@ -1,0 +1,12 @@
+url=http://automationpractice.com/index.php
+######################################
+
+### Browser Configurations ###########
+browser = chrome
+maximize = yes
+### Only For Chrome Or FireFox #######
+headless = no
+######################################
+ImplicitWait = 20
+PageLoadTimeout = 20
+WebDriverWaitTimeout = 20
