@@ -9,3 +9,8 @@ Scenario: testing my store home page
 @test2
 Scenario: testing search bar
   When I search for "mens" in search bar
+
+
+@test3
+Scenario: testing xyz
+  When xyz
