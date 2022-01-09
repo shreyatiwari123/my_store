@@ -12,5 +12,5 @@ Scenario: testing search bar
 
 
 @test3
-Scenario: testing xyz
-  When xyz
+Scenario: testing abc
+  When abc
